@@ -1,0 +1,15 @@
+img {border-radius: 75px; margin: 20px; 
+}
+h2 {font-size: 25px; color: black; 
+}
+body {background-color: slateblue;
+font-family: "Trebuchet MS"; color: white; text-align: center;
+}
+a {background-color: rgb(19, 45, 190); font-size: 20px; border-radius: 10px; 
+    padding: 10px; display: block; text-align: center; margin: 10px; 
+    color: black;
+}
+    h1 {font-size: 45px; color: green; text-shadow: 2px 2px 4px black;
+    }
+p {font-size: 18px; color: silver; text-align: center;
+}
