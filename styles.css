@@ -20,4 +20,5 @@ p {font-size: 18px; color: silver; text-align: center;
     object-fit: cover; /* Corta los bordes sobrantes para llenar el cuadro */
     object-position: center; /* Centra la imagen dentro del recorte */
     display: block; /* Ayuda a evitar espacios extraños abajo de la imagen */
+    margin: 0 auto;
 }
