@@ -13,3 +13,11 @@ a {background-color: rgb(19, 45, 190); font-size: 20px; border-radius: 10px;
     }
 p {font-size: 18px; color: silver; text-align: center;
 }
+/* Selecciona la imagen por una clase para no afectar a todas las del sitio */
+.project-image {
+    width: 250px;
+    height: 450px;
+    object-fit: cover; /* Corta los bordes sobrantes para llenar el cuadro */
+    object-position: center; /* Centra la imagen dentro del recorte */
+    display: block; /* Ayuda a evitar espacios extraños abajo de la imagen */
+}
