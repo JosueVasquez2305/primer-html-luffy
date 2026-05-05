@@ -28,7 +28,5 @@ During this project, I focused on:
 
 ## 🏁 Getting Started
 
-To view this project locally, clone the repository and open the `index.html` file in your browser:
-
-```bash
-git clone [https://github.com/JosueVasquez2305/primer-html-luffy.git](https://github.com/JosueVasquez2305/primer-html-luffy.git)
+To view this project
+[CLICK HERE]( https://josuevasquez2305.github.io/primer-html-luffy/)
