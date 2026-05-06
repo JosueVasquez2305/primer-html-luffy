@@ -22,3 +22,22 @@ p {font-size: 18px; color: silver; text-align: center;
     display: block; /* Ayuda a evitar espacios extraños abajo de la imagen */
     margin: 0 auto;
 }
+body {
+  background-color: #f2f2f2;
+  color: #333;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #a855f7; /* Color de aura */
+}
+
+a {
+  color: #a855f7;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #facc15; /* Cambia a amarillo al pasar el mouse */
+}
