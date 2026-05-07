@@ -29,4 +29,4 @@ During this project, I focused on:
 ## 🏁 Getting Started
 
 To view this project
-[CLICK HERE]( https://josuevasquez2305.github.io/primer-html-luffy/)
+[CLICK HERE](https://josuevasquez2305.github.io/First-html-luffy/)
